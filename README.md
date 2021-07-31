@@ -30,3 +30,4 @@ Since there is no known output, unsupervised machine learning through clustering
 
 
 ## To Wrap It Up
+We broke the model into 4 clusters to represent the reduced data, considering the relationship between coins in supply and coins mined, cryptocurrency price. could be on the rise.
